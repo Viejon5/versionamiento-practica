@@ -1,8 +1,9 @@
 # versionamiento-practica
 # Mi Información
 
-**Nombre completo:** Juan Pérez  
-**Carrera y grupo:** Ingeniería en Sistemas, Grupo 1A
+**Nombre completo:** Antonio Arellano Morales  
+**Carrera y grupo:** Ingeniería en Desarrollo y Gestion de Software 
+**Grupo** 9 A
 
 ## ¿Qué es el control de versiones?
 
