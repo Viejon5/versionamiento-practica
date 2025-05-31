@@ -2,8 +2,7 @@
 # Mi Información
 
 **Nombre completo:** Antonio Arellano Morales  
-**Carrera y grupo:** Ingeniería en Desarrollo y Gestion de Software 
-**Grupo** 9 A
+**Carrera y grupo:** Ingeniería en Desarrollo y Gestion de Software, Grupo 9 A
 
 ## ¿Qué es el control de versiones?
 
